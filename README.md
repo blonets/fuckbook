@@ -1,10 +1,10 @@
-# FuckFacebook
+# Fuckbook
 
 ![Example](https://i.postimg.cc/dVWk6f6L/image.jpg)
 
 Osint tools for information retrieval via facebook (Python 3.X)
 
-- [Installation](https://github.com/Ph4nToM00/FuckFacebook/#Installation)
+- [Installation](https://github.com/blonets/fuckbook/#Installation)
 
  
 # Installation
@@ -18,10 +18,18 @@ Osint tools for information retrieval via facebook (Python 3.X)
 
       # Linux :
          - https://justhackerthings.com/post/using-tor-from-the-command-line/
+         - Arch Linux :
+           sudo pacman -S tor 
+           sudo systemctl enable tor
+         -----------------------------------
+         - Debian Based 
+         sudo apt install tor
+         sudo systemctl enable tor 
+---------------------------------------------------------------------------------------------
 
-       git clone https://github.com/Ph4nToM00/FuckFacebook.git 
+       git clone https://github.com/blonets/fuckbook.git 
 
-       cd FuckFacebook
+       cd fuckbook
 
        pip(3) install -r requirements.txt 
     Or:    
@@ -55,8 +63,10 @@ Osint tools for information retrieval via facebook (Python 3.X)
 
 ```
 
-# Donations
+# From Egypt to All World Say HI 
 
-![QRCode](https://i.ibb.co/CJt079K/qrcode.png)
+White4wolf Returm again 
+seekerarch
+Eng\Osama Tammaa
 
 
