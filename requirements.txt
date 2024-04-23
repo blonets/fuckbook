@@ -1,0 +1,9 @@
+argparse
+requests
+tabulate
+bs4
+colorama
+terminaltables
+socks
+socket
+tqdm
